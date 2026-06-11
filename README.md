@@ -47,13 +47,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SadeepCD&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SadeepCD&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepCD&layout=compact&theme=tokyonight" />
-</p>
 
 
 
