@@ -50,7 +50,7 @@
 
 
 
-
+<p align="center">
 
 
 ## 📫 Reach Me
@@ -67,6 +67,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
 
 </p>
+</p>
+
 
 ---
 
